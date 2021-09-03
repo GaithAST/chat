@@ -1,4 +1,5 @@
 
+import 'package:chat/counter.dart';
 import 'package:chat/loginsc.dart';
 import 'package:flutter/material.dart';
 import 'package:chat/datamodels.dart';
@@ -13,7 +14,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
   // ignore: prefer_const_constructors
-  return MaterialApp(home: Users(),debugShowCheckedModeBanner: false);
+  return MaterialApp(home: nigga(),debugShowCheckedModeBanner: false);
 
   
 }
